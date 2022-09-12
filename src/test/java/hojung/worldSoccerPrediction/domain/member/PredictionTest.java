@@ -1,10 +1,11 @@
 package hojung.worldSoccerPrediction.domain.member;
 
-import hojung.worldSoccerPrediction.domain.match.Match;
-import hojung.worldSoccerPrediction.domain.match.MatchLeague;
-import hojung.worldSoccerPrediction.domain.match.MatchResult;
-import hojung.worldSoccerPrediction.domain.prediction.PredictStatus;
-import hojung.worldSoccerPrediction.domain.prediction.Prediction;
+import hojung.worldSoccerPrediction.project.domain.match.Match;
+import hojung.worldSoccerPrediction.project.domain.match.MatchLeague;
+import hojung.worldSoccerPrediction.project.domain.match.MatchResult;
+import hojung.worldSoccerPrediction.project.domain.member.Member;
+import hojung.worldSoccerPrediction.project.domain.prediction.PredictStatus;
+import hojung.worldSoccerPrediction.project.domain.prediction.Prediction;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.*;

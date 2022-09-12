@@ -1,7 +1,7 @@
 package hojung.worldSoccerPrediction.domain.member;
 
-import hojung.worldSoccerPrediction.domain.match.Match;
-import hojung.worldSoccerPrediction.domain.match.MatchLeague;
+import hojung.worldSoccerPrediction.project.domain.match.Match;
+import hojung.worldSoccerPrediction.project.domain.match.MatchLeague;
 import org.junit.jupiter.api.Test;
 
 public class MatchTest {

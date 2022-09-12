@@ -1,6 +1,6 @@
-package hojung.worldSoccerPrediction.domain.member;
+package hojung.worldSoccerPrediction.project.domain.member;
 
-import hojung.worldSoccerPrediction.domain.prediction.Prediction;
+import hojung.worldSoccerPrediction.project.domain.prediction.Prediction;
 import lombok.*;
 
 import javax.persistence.*;

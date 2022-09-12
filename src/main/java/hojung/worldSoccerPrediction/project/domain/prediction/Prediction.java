@@ -1,7 +1,7 @@
-package hojung.worldSoccerPrediction.domain.prediction;
+package hojung.worldSoccerPrediction.project.domain.prediction;
 
-import hojung.worldSoccerPrediction.domain.match.Match;
-import hojung.worldSoccerPrediction.domain.member.Member;
+import hojung.worldSoccerPrediction.project.domain.match.Match;
+import hojung.worldSoccerPrediction.project.domain.member.Member;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NonNull;

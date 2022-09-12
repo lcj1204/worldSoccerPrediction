@@ -1,4 +1,4 @@
-package hojung.worldSoccerPrediction.domain.match;
+package hojung.worldSoccerPrediction.project.domain.match;
 
 public enum MatchLeague {
     EPL, LALIGA, SERIA, BUNDAS
