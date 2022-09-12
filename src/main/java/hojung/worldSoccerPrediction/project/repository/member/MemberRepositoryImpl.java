@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import java.util.Optional;
 
 @Repository
-public class MemberRepositoryImpl implements MemberRepository {
+public class MemberRepositoryImpl implements CustomMemberRepository {
     @Override
     public Optional<Member> findByNickname(String nickname) {
         return Optional.empty();
