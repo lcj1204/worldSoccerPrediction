@@ -1,4 +1,4 @@
-package hojung.worldSoccerPrediction.domain.match;
+package hojung.worldSoccerPrediction.project.domain.match;
 
 import lombok.Builder;
 import lombok.Getter;
