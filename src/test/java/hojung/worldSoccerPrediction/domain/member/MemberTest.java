@@ -1,5 +1,6 @@
 package hojung.worldSoccerPrediction.domain.member;
 
+import hojung.worldSoccerPrediction.project.domain.member.Member;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
