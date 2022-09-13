@@ -10,5 +10,5 @@ public interface MemberService {
 
     Member getMember(Long memberId); // id로 회원 조회
     void changeMember(Member member); // id로 회원 정보 수정
-    void deleteMember(Long memberId);// id로 회원 삭제
+    Long deleteMember(Long memberId);// id로 회원 삭제
 }
