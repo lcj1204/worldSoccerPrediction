@@ -13,4 +13,5 @@ public interface MatchRepository {
     Optional<Match> findByAwayTeam(String name);
     Optional<Match> findByRound(int round);
     Optional<Match> findByLeague(MatchLeague league);
+    Optional<Match> findByWeek(int week);
 }
